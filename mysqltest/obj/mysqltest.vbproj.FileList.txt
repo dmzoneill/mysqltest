@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\mysqltest.frmLogin.resources
+obj\Debug\mysqltest.Resources.resources
+obj\Debug\mysqltest.vbproj.GenerateResource.Cache
+bin\Debug\mysqltest.exe
+bin\Debug\mysqltest.pdb
+bin\Debug\mysqltest.xml
+obj\Debug\mysqltest.exe
+obj\Debug\mysqltest.xml
+obj\Debug\mysqltest.pdb
