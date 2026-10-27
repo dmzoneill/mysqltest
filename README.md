@@ -1,5 +1,9 @@
 # mysqltest
 
+<p align="center">
+  <img src=".github/logo.png" alt="mysqltest logo" width="128" />
+</p>
+
 A small VB.NET Windows Forms program for testing a MySQL connection.
 
 ## What it does
